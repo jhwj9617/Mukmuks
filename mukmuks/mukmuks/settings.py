@@ -24,7 +24,7 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["mukmuks.herokuapp.com"]
 
 #TEMPLATE_DIRS = (
 #    os.path.join(os.path.dirname(__file__) , '../templates').replace('\\','/'),
