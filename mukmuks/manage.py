@@ -2,6 +2,9 @@
 import os
 import sys
 
+DEBUG = False
+TEMPLATE_DEBUG = DEBUG
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mukmuks.settings")
 
