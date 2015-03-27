@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from myproject.models import User
+from myproject.models.user import User
 import datetime
 
 # Create your views here.
