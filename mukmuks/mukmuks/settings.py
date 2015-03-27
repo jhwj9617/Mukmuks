@@ -66,7 +66,7 @@ DATABASES = {
         'NAME': 'mylocaldb',
         'USER': 'Joon',
         'PASSWORD': '022597733',
-        'HOST': 'localhost',
+        'HOST': '127.0.0.1',
         'PORT': '',
     }
 }
